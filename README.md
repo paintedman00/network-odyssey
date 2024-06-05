@@ -1,4 +1,4 @@
-# Network Notes
+# Network Odyssey
 
 ## Table of Contents
 1. [What is Networking?](#what-is-networking)
